@@ -236,7 +236,7 @@ For each epoch, a set of 31 images will be displayed onscreen. The longer you tr
 """
 
 # you can adjust the number of epochs
-EPOCHS = 60
+EPOCHS = 10
 
 # run the training loop and collect images
 fake_images = train_gan(gan, image_dataset, random_normal_dimensions, EPOCHS)
