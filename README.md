@@ -6,5 +6,4 @@ This code is Generative Adversarial Network (GAN) that generates pictures of han
 
 The model you will build will be very similar to the DCGAN model
 
-Original file is located at:
-
+![download (BATCH 10 )](https://user-images.githubusercontent.com/55090554/139240539-22d9c4fe-328b-444f-b21b-ac527dc6ae38.png)
